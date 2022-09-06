@@ -4,7 +4,7 @@
 - Original openaps: https://github.com/openaps/oref0
 
 ## Before you start:
-- **Check your internet connection (```ping 8.8.8.8```) and DNS resolving (```ping google.com```)**. Otherwise try to [set Wi-Fi](https://github.com/workingopenaps/oref0/edit/dev/README.md#optional-set-wi-fi).
+- **Check your internet connection (```ping 8.8.8.8```) and DNS resolving (```ping google.com```)**. Otherwise try to [set Wi-Fi](https://github.com/workingopenaps/oref0/blob/dev/README.md#optional-set-wi-fi).
 - **Save your preferences.json**
 - Optional: save your autotune
 - **Login into root user by ```sudo su -```**
